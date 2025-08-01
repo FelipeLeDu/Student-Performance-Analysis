@@ -1,3 +1,4 @@
+import numpy as np
 from scipy.stats import shapiro
 from scipy.stats import f
 from scipy.stats import t
